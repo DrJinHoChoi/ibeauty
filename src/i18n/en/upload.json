@@ -1,0 +1,26 @@
+{
+  "title": "Upload Photo",
+  "subtitle": "Upload a photo to apply makeup",
+  "dropzone": {
+    "title": "Drag a photo here or click to browse",
+    "subtitle": "JPG, PNG, WebP formats (max 10MB)",
+    "button": "Choose Photo"
+  },
+  "webcam": {
+    "title": "Capture with Webcam",
+    "button": "Use Camera",
+    "capture": "Capture",
+    "retake": "Retake"
+  },
+  "preview": {
+    "title": "Photo Preview",
+    "crop": "Crop",
+    "change": "Choose Different Photo"
+  },
+  "validation": {
+    "fileType": "Only JPG, PNG, WebP formats are supported",
+    "fileSize": "File size exceeds 10MB",
+    "imageTooSmall": "Image resolution is too low (minimum 512x512)"
+  },
+  "nextStep": "Choose Makeup Style"
+}

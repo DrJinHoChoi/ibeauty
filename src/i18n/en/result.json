@@ -1,0 +1,27 @@
+{
+  "title": "Makeup Results",
+  "subtitle": "Check out your AI-applied makeup",
+  "loading": {
+    "title": "Applying makeup...",
+    "subtitle": "AI is finding the perfect look for you",
+    "tips": [
+      "Blend foundation seamlessly into your neck for a natural finish",
+      "Draw eyeliner towards the outer corner for a natural look",
+      "Apply blush from cheekbones towards temples",
+      "Moisturize your lips before applying lipstick",
+      "Shape your eyebrows to match your face shape"
+    ]
+  },
+  "beforeAfter": "Before / After",
+  "variations": "Results",
+  "viewTutorial": "View Tutorial",
+  "saveToGallery": "Save to Gallery",
+  "saved": "Saved",
+  "tryAgain": "Try Again",
+  "newMakeup": "New Makeup",
+  "error": {
+    "failed": "Makeup transformation failed",
+    "timeout": "Transformation timed out",
+    "rateLimit": "Too many requests. Please try again shortly"
+  }
+}

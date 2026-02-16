@@ -1,0 +1,38 @@
+{
+  "title": "메이크업 스타일 선택",
+  "subtitle": "원하는 메이크업 스타일을 골라보세요",
+  "categories": {
+    "all": "전체",
+    "natural": "내추럴",
+    "glam": "글램",
+    "special": "특별한 날"
+  },
+  "options": {
+    "title": "세부 옵션",
+    "intensity": "메이크업 강도",
+    "intensityLight": "연하게",
+    "intensityBold": "진하게",
+    "lipColor": "립 컬러",
+    "eyeshadowColor": "아이섀도 컬러",
+    "skinTone": "피부톤",
+    "skinTones": {
+      "fair": "밝은 피부",
+      "light": "라이트",
+      "medium": "중간",
+      "tan": "탄",
+      "deep": "어두운 피부"
+    },
+    "customPrompt": "추가 요청사항"
+  },
+  "startMakeup": "메이크업 시작",
+  "styles": {
+    "daily": "데일리",
+    "office": "오피스",
+    "party": "파티",
+    "wedding": "웨딩",
+    "natural": "내추럴",
+    "glam": "글램",
+    "date": "데이트",
+    "interview": "면접"
+  }
+}

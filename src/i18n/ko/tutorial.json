@@ -1,0 +1,22 @@
+{
+  "title": "메이크업 튜토리얼",
+  "subtitle": "단계별로 따라해보세요",
+  "step": "단계",
+  "of": "/",
+  "tip": "팁",
+  "recommendedProducts": "추천 제품",
+  "duration": "소요시간",
+  "difficulty": {
+    "label": "난이도",
+    "beginner": "초급",
+    "intermediate": "중급",
+    "advanced": "상급"
+  },
+  "navigation": {
+    "prev": "이전 단계",
+    "next": "다음 단계",
+    "complete": "완료"
+  },
+  "backToResult": "결과로 돌아가기",
+  "saveAndFinish": "저장 후 완료"
+}

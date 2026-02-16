@@ -1,0 +1,38 @@
+{
+  "title": "Choose Makeup Style",
+  "subtitle": "Select your desired makeup style",
+  "categories": {
+    "all": "All",
+    "natural": "Natural",
+    "glam": "Glam",
+    "special": "Special Occasion"
+  },
+  "options": {
+    "title": "Options",
+    "intensity": "Makeup Intensity",
+    "intensityLight": "Light",
+    "intensityBold": "Bold",
+    "lipColor": "Lip Color",
+    "eyeshadowColor": "Eyeshadow Color",
+    "skinTone": "Skin Tone",
+    "skinTones": {
+      "fair": "Fair",
+      "light": "Light",
+      "medium": "Medium",
+      "tan": "Tan",
+      "deep": "Deep"
+    },
+    "customPrompt": "Additional requests"
+  },
+  "startMakeup": "Start Makeup",
+  "styles": {
+    "daily": "Daily",
+    "office": "Office",
+    "party": "Party",
+    "wedding": "Wedding",
+    "natural": "Natural",
+    "glam": "Glam",
+    "date": "Date",
+    "interview": "Interview"
+  }
+}

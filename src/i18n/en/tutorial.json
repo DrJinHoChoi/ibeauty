@@ -1,0 +1,22 @@
+{
+  "title": "Makeup Tutorial",
+  "subtitle": "Follow along step by step",
+  "step": "Step",
+  "of": "/",
+  "tip": "Tip",
+  "recommendedProducts": "Recommended Products",
+  "duration": "Duration",
+  "difficulty": {
+    "label": "Difficulty",
+    "beginner": "Beginner",
+    "intermediate": "Intermediate",
+    "advanced": "Advanced"
+  },
+  "navigation": {
+    "prev": "Previous",
+    "next": "Next Step",
+    "complete": "Complete"
+  },
+  "backToResult": "Back to Results",
+  "saveAndFinish": "Save & Finish"
+}

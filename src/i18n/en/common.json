@@ -1,0 +1,32 @@
+{
+  "appName": "iBeauty",
+  "appTagline": "AI Makeup Experience",
+  "nav": {
+    "home": "Home",
+    "upload": "Upload Photo",
+    "gallery": "Gallery",
+    "about": "About"
+  },
+  "actions": {
+    "next": "Next",
+    "back": "Back",
+    "start": "Get Started",
+    "retry": "Retry",
+    "save": "Save",
+    "download": "Download",
+    "share": "Share",
+    "cancel": "Cancel",
+    "close": "Close",
+    "delete": "Delete"
+  },
+  "errors": {
+    "unknown": "An unknown error occurred",
+    "network": "Please check your network connection",
+    "notFound": "Page not found"
+  },
+  "footer": {
+    "copyright": "© 2026 iBeauty. All rights reserved.",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service"
+  }
+}
